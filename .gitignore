@@ -2,4 +2,7 @@
 .venv
 .env
 __pycache__/
-wandb
+wandb/
+.ipynb_checkpoints/
+
+
